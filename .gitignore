@@ -1,2 +1,4 @@
 .idea/**
 plain_blog.iml
+.DS_Store
+out/
